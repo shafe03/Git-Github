@@ -1,10 +1,5 @@
-# my-website
+# Aboute this repository
 
-this is a really awesome website
+* I have created this repository to learn GIT & GITHUB :)
 
-tweaking readme
 
-editing locally
-editing locally, then remotely
-
-adding this line to see remote changes
