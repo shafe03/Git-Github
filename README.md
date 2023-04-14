@@ -1,4 +1,3 @@
-
 ### Git advance
 
 1. Git diff commitsid HEAD 
@@ -106,6 +105,16 @@
 4. HEAD^ (HEAD MINUS ONE)
 
 
-1. Git remote add upstream githubaddresslinkofforkingrepoaddress
-2. Git pull upstream feature-readme
-3. Gir push origin main
+### Notes
+  <img src="git & github_(jpg)/Shafe Alam git & github_1.jpg" alt="note-1" width="1200" height="1200">
+  <img src="git & github_(jpg)/Shafe Alam git & github_2.jpg" alt="note-2" width="1200" height="1200">
+  <img src="git & github_(jpg)/Shafe Alam git & github_3.jpg" alt="note-3" width="1200" height="1200">
+  <img src="git & github_(jpg)/Shafe Alam git & github_4.jpg" alt="note-4" width="1200" height="1200">
+  <img src="git & github_(jpg)/Shafe Alam git & github_5.jpg" alt="note-5" width="1200" height="1200">
+  <img src="git & github_(jpg)/Shafe Alam git & github_6.jpg" alt="note-6" width="1200" height="1200">
+  <img src="git & github_(jpg)/Shafe Alam git & github_7.jpg" alt="note-7" width="1200" height="1200">
+  <img src="git & github_(jpg)/Shafe Alam git & github_8.jpg" alt="note-8" width="1200" height="1200">
+  <img src="git & github_(jpg)/Shafe Alam git & github_9.jpg" alt="note-9" width="1200" height="1200">
+  <img src="git & github_(jpg)/Shafe Alam git & github_10.jpg" alt="note-10" width="1200" height="1200">
+  <img src="git & github_(jpg)/Shafe Alam git & github_11.jpg" alt="note-11" width="1200" height="1200">
+  <img src="git & github_(jpg)/Shafe Alam git & github_12.jpg" alt="note-12" width="1200" height="1200">
